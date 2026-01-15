@@ -2,7 +2,6 @@ const { app, BrowserWindow } = require('electron');
 const path = require('path');
 
 function createWindow() {
-  const unusedConfig = { test: true };
   const mainWindow = new BrowserWindow({
     width: 640,
     height: 640,

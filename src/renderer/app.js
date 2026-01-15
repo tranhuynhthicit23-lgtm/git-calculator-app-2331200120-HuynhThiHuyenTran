@@ -162,6 +162,5 @@
   }
 
   // Initialize
-  const debugMode = false;
   resetAll();
 })();
